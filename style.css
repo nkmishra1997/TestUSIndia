@@ -1827,7 +1827,7 @@ h1,h2,h3,h4,h5,h6{
 	width:100%;
 	margin:auto;
 	z-index:1;
-	background:rgba(0, 0, 0, 0.4);
+	/*background:rgba(0, 0, 0, 0.4);*/
 }
 .kodeevent-blog-post:hover .newevent-header:after, .kode-event-recent-info:hover .newevent-header:after{
 	background:rgba(0, 0, 0, 0.1);
